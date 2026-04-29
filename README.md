@@ -41,4 +41,7 @@ The pipeline integrates computer vision, text recognition, and robotic control t
 - Smart logistics  
 
 ---
-
+## Contributors
+- Muhammed Hafis Najeeb Hazeena
+- Srinikith Bhaskaran Vanitha
+- Rhenius Johan Asirvatham
