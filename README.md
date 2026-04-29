@@ -42,7 +42,3 @@ The pipeline integrates computer vision, text recognition, and robotic control t
 
 ---
 
-
----
-
-## Project Structure
